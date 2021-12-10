@@ -317,7 +317,7 @@ translations:
         amb l'estat general de la categoria actual?
 
     # newsletter
-    - key: blocks.newsletter
+    - key: blocks.newsletter.title
       t: Atenció a nova informació
     - key: blocks.newsletter.description
       t: |
