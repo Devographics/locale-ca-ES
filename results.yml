@@ -21,10 +21,10 @@ translations:
     - key: general.completion_percentage
       t: 'Percentatge completat:'
 
-    - key: partners.thanks
+    - key: sponsors.thanks
       t: Gràcies als nostres socis per donar-nos suport!
 
-    - key: partners.learn_more
+    - key: sponsors.learn_more
       t: Més informació.
 
     ###########################################################################
