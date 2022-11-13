@@ -50,7 +50,7 @@ translations:
     - key: general.preview_survey
       t: Previsualitzar l'Enquesta »
     - key: general.finish_survey
-      t: Finalitzar l'Enquesta »
+      t: Finalitzar l'Enquesta
     - key: general.survey_closed
       t: Aquesta enquesta és tancada.
     - key: general.survey_results
