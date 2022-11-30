@@ -12,7 +12,7 @@ translations:
     # Introduction
     ###########################################################################
 
-    - key: sections.introduction.description
+    - key: introduction.js2020
       t: |
 
             <span class="first-letter">P</span>er molt merda que hagi estat el 2020, JavaScript encara ha aconseguit avançar d'alguna manera. A mesura que el llenguatge en sí continua millorant

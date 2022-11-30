@@ -351,7 +351,7 @@ translations:
       t: Ho sentim, l'exportació CSV no està disponible per aquest conjunt de dades.
     - key: export.graphql
       t: >
-          Pots copiar i enganxar aquesta consula a la nostra <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">API GraphQL pública</a>.
+          Pots copiar i enganxar aquesta consula a la nostra <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">API GraphQL pública</a>.
 
     # Tools usage variations
     - key: blocks.tools_usage_variations
