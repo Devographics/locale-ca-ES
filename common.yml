@@ -687,7 +687,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogs i revistes
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Quins blogs/revistes/etc. llegeixes?
   - key: resources.blogs_news_magazines.others
     t: Other blogs i revistes
@@ -697,7 +697,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Llocs web i cursos
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Quins llocs web/cursos/etc. consultes?
   - key: resources.sites_courses.others
     t: Altres llocs web i cursos
@@ -707,7 +707,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podcasts
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Quins podcasts sobre programació escoltes?
   - key: resources.podcasts.others
     t: Altres Podcasts
