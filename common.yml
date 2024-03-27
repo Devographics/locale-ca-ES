@@ -553,43 +553,43 @@ translations:
   # years of experience
   - key: user_info.years_of_experience
     t: Anys d'experiència
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: Quant de temps fa que treballes o estudies en aquest camp.
 
   # company size
   - key: user_info.company_size
     t: Mida de la companyia
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Com de gran és l'empresa.
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Salari anual
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: En dòlars americans.
 
   # job title
   - key: user_info.job_title
     t: Títol de la feina
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Com et presentes als esdeveniments?
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: Domini de JavaScript
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Quina experiència tens en JavaScript?
 
   # css proficiency
   - key: user_info.css_proficiency
     t: Domini de CSS
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Quina experiència tens en CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Domini en el Back-end
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Quina experiència tens en el desenvolupament back-end?
 
   # gender
@@ -615,7 +615,7 @@ translations:
       repositoris i fer referències creuades a la informació pública disponible.
   - key: user_info.industry_sector
     t: Sector de la indústria
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: En quin sector de la indústria treballes?
   - key: user_info.industry_sector.others
     t: Altres sectors de la indústria
