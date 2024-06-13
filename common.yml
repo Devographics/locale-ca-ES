@@ -628,7 +628,7 @@ translations:
 
   - key: tools_others.libraries
     t: Llibreries
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: Quines llibreries utilitzes habitualment?
   - key: tools_others.libraries.others
     t: Altres llibreries
@@ -637,7 +637,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Editors de text
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Quins editors de text utilitzes habitualment?
   - key: tools_others.text_editors.others
     t: Altres editors de text
@@ -646,7 +646,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utilitats
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Quines utilitats o eines utilitzes habitualment?
   - key: tools_others.utilities.others
     t: Altres utilitats
@@ -655,7 +655,7 @@ translations:
 
   - key: tools_others.browsers
     t: Navegadors
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Quins navegadors utilitzes principalment durant el desenvolupament inicial?
   - key: tools_others.browsers.others
     t: Altres navegadors
@@ -664,7 +664,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Eines de construcció
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Quines eines de construcció utilitzes?
   - key: tools_others.build_tools.others
     t: Altres eines de construcció
@@ -673,7 +673,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Altres llenguatges (que no siguin JavaScript)
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Quins altres llenguatges de programació utilitzes?
   - key: tools_others.non_js_languages.others
     t: Altres llenguatges
